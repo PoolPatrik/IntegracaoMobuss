@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegracaoMobuss", "IntegracaoMobuss.csproj", "{DC45D00B-5EBA-4A53-84A5-D413B60AE960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC45D00B-5EBA-4A53-84A5-D413B60AE960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC45D00B-5EBA-4A53-84A5-D413B60AE960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC45D00B-5EBA-4A53-84A5-D413B60AE960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC45D00B-5EBA-4A53-84A5-D413B60AE960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F6B05C-37BE-4807-8C72-9F2B2BA8670D}
+	EndGlobalSection
+EndGlobal
